@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quiz_page">QuizPage</string>
+    <string name="open">Open</string>
+
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
